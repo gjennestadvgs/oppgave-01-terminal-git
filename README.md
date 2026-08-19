@@ -1,4 +1,4 @@
-Oppgave 01 – Terminal, Git og Python
+# Oppgave 01 – Terminal, Git og Python
 
 
 
@@ -20,7 +20,7 @@ Nå skal du fortsette å jobbe gjennom terminalen.
 
 
 
-**1. Installer Python**
+## **1. Installer Python**
 
 
 
@@ -44,7 +44,7 @@ Når installasjonen er ferdig, åpne terminalen på nytt og test: *python --Vers
 
 
 
-**2. Lag en Python-fil**
+## **2. Lag en Python-fil**
 
 
 
@@ -64,7 +64,7 @@ I filen skal du legge til følgende:
 
 
 
-**3. Commit Python-filen**
+## **3. Commit Python-filen**
 
 
 
@@ -88,7 +88,7 @@ Sjekk hva Git ser igjen: *git status*
 
 
 
-**4. Lag en fil med navnet ditt**
+## **4. Lag en fil med navnet ditt**
 
 
 
@@ -118,7 +118,7 @@ En funfact om meg er at jeg har hoppet i fallskjerm.
 
 
 
-**5. Lag en ny commit**
+## **5. Lag en ny commit**
 
 
 
@@ -130,7 +130,7 @@ Lag en commit: *git commit -m "Funfact opprettet"*
 
 
 
-**6. Sjekk status**
+## **6. Sjekk status**
 
 
 
@@ -142,7 +142,7 @@ Les hva Git forteller deg.
 
 
 
-**7. Push til GitHub**
+## **7. Push til GitHub**
 
 
 
@@ -154,7 +154,7 @@ Push prosjektet: *git push*
 
 
 
-**8. Sjekk status igjen**
+## **8. Sjekk status igjen**
 
 
 
@@ -165,6 +165,8 @@ Kjør: *git status*
 Gå deretter inn på repositoryet ditt på GitHub.
 
 
+
+## **Ferdig**
 
 Kontroller at du kan se:
 
