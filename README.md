@@ -84,6 +84,10 @@ Lag en commit: *git commit -m "Opprettelse av python fil"*
 
 
 
+Sjekk hva Git ser igjen: *git status*
+
+
+
 **4. Lag en fil med navnet ditt**
 
 
