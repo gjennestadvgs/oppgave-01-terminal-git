@@ -51,7 +51,7 @@ Når installasjonen er ferdig, åpne terminalen på nytt og test: *python --Vers
 Lag en ny fil som heter:
 main.py
 
-New-Item main.py
+new-Item main.py
 
 rediger filen med:
 edit main.py
