@@ -55,6 +55,8 @@ Lag en ny fil som heter:
 main.py
 
 
+rediger filen med:
+edit main.py
 
 I filen skal du legge til følgende:
 
